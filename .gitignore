@@ -361,3 +361,13 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/.gitattributes
+/.gitignore
+/Lab1.sln
+/Lab1.vcxproj
+/Lab1.vcxproj.filters
+/Lab1.zip
+/task2(var4)/task2(var4).vcxproj
+/task2(var4)/task2(var4).vcxproj.filters
+/task1(var4)/task1(var4).vcxproj
+/task1(var4)/task1(var4).vcxproj.filters
